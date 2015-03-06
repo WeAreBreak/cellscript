@@ -1,6 +1,6 @@
 {
   "name": "cellscript",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The CellScript js-compiler module adds support Express and Mongoose based web application specific grammar to JavaScript.",
   "main": "index.js",
   "scripts": {
