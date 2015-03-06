@@ -1,0 +1,31 @@
+{
+  "name": "cellscript",
+  "version": "0.1.0",
+  "description": "The CellScript js-compiler module adds support Express and Mongoose based web application specific grammar to JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ajuhos@github.com/WeAreBreak/cellscript.git"
+  },
+  "keywords": [
+    "cellscript",
+    "grammar",
+    "module",
+    "express",
+    "mongo",
+    "mongoose",
+    "web",
+    "extension",
+    "javascript",
+    "compiler"
+  ],
+  "author": "We Are Break <ajuhos@we-are-break.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WeAreBreak/cellscript/issues"
+  },
+  "homepage": "https://github.com/WeAreBreak/cellscript"
+}
