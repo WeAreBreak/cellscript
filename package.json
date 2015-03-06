@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/WeAreBreak/cellscript/issues"
   },
-  "homepage": "https://github.com/WeAreBreak/cellscript"
+  "homepage": "https://github.com/WeAreBreak/cellscript",
+  "dependencies": {
+    "js-parser-utils": "^1.0.0"
+  }
 }
